@@ -1,3 +1,6 @@
+Je kan het afgewerkte jquery-form in deze [link](https://ancattie.github.io/jquery-form/) vinden.
+
+
 # Interactief formulier
 
 ## Praktische informatie
